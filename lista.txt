@@ -1,6 +1,3 @@
 arroz 
 pollo
 pan
-queso
-pelota 
-comida de perro
