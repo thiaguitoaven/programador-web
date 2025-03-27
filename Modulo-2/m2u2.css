@@ -1,0 +1,9 @@
+.titulo{
+    text-align: center;  
+    color: black;
+    font-family: monospace;
+}
+.carousel-item{
+   text-align: center;
+   padding: 80px;
+}
